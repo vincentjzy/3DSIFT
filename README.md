@@ -92,6 +92,6 @@ There are several different details in our  implement:
 
 If you want to cite this work, please refer to the papers as follows:
 
-[1] B. Rister, M. A. Horowitz and D. L. Rubin, "Volumetric Image Registration From Invariant Keypoints," in *IEEE Transactions on Image Processing*, vol. 26, no. 10, pp. 4900-4910, Oct. 2017. doi: 10.1109/TIP.2017.2722689
+[1] RisterB, Horowitz MA, Rubin DL. Volumetric Image Registration From Invariant Keypoints. IEEE Transactions on Image Processing (2017) 26(10): 4900-4910.
 
-[2] Our paper in the manuscript.
+[2] Yang J, Huang J, Jiang Z, Dong S, Tang L, Liu Y, Liu Z, Zhou L. 3D SIFT aided path independent digital volume correlation and its GPU acceleration. Optics and Lasers in Engineering (2021) 136:106323.
